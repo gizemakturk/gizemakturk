@@ -10,12 +10,8 @@
 ### - I'm 22 years  old Software Engineering Intern at Sun Express from Turkey.
 
 ### - Learning :
-- ✨ RPA
-- ✨ UI Path
 - ✨ .NET Core
-- ✨ Pandas
 - ✨ Flutter
-- ✨ PostgreSQL
 
 
 
