@@ -15,11 +15,7 @@
 ### - I'm 22 years  old Software Engineering Intern at Sun Express from Turkey.
 </br>
 </br>
-</br>
 
-<img hight="400" width="500" alt="GIF" align="right" src="1936.gif">
-</br>
-</br>
 
 ### - Learning :
 - ✨ RPA
