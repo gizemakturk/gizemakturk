@@ -1,8 +1,3 @@
-<div align="center">
-
-[![(＾◡＾) Yo! I'm a random nerd, finding something fun to do every day.](<https://typograssy.deno.dev/api?text=(%EF%BC%BE%E2%97%A1%EF%BC%BE)%20Yo!%20I'm%20a%20random%20nerd,%20finding%20something%20fun%20to%20do%20every%20day.&speed=32&comment=>)](https://bio.link/thuanpham2311)
-
-</div>
 
 <div align="center">
   <h1 align="center">
@@ -13,9 +8,6 @@
 # About ME 💬 :
 
 ### - I'm 22 years  old Software Engineering Intern at Sun Express from Turkey.
-</br>
-</br>
-
 
 ### - Learning :
 - ✨ RPA
@@ -25,8 +17,6 @@
 - ✨ Flutter
 - ✨ PostgreSQL
 
-
-</br>
 </br>
 </br></br></br></br></br>
 
