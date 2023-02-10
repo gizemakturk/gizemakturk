@@ -7,7 +7,7 @@
 
 # About ME 💬 :
 
-### - I'm 22 years  old Software Engineering Intern at Sun Express from Turkey.
+### - I am 22 years old. I am a computer engineering student at Akdeniz University.
 
 ### - Learning :
 - ✨ .NET Core
